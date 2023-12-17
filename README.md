@@ -8,7 +8,7 @@ This website, developed as part of the HTML and CSS in-depth course offered by M
 
 [Visit Site](https://)
 
-## Module 1
+## Semantic and Meta Tags
 
 - Semantic tags and structured web page creation
 - Metadata and SEO
@@ -16,7 +16,7 @@ This website, developed as part of the HTML and CSS in-depth course offered by M
 - Post form data to a server
 - Create a video and audio player
 
-## Module 2
+## User Input and Forms
 
 - Flexbox and CSS grids for responsive layouts
 - Advanced CSS selectors and pseudo-classes
@@ -24,7 +24,7 @@ This website, developed as part of the HTML and CSS in-depth course offered by M
 - Basic front-end testing and debugging
 - Adapt CSS for cross-browser compatibility
 
-## Module 3
+## Media Elements
 
 - Apply learned skills by creating a home page
 - Introduce advanced styling to your portfolio
