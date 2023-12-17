@@ -6,7 +6,7 @@ This website, developed as part of the HTML and CSS in-depth course offered by M
 
 !["Project image"](./assets/images/finalScreen.jpg)
 
-[Visit Site](https://)
+[Visit Site](https://hossam43.github.io/meta-project/)
 
 ## Semantic and Meta Tags
 
