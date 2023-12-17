@@ -1,0 +1,7 @@
+- adding section content image type website using the flex box 
+- using the reverse keyword
+- using the perfict 50% 50% flex
+- using clip path
+
+- download postGres
+resourse:https://startbootstrap.com/previews/landing-page
