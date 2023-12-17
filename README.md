@@ -4,7 +4,7 @@
 
 This website, developed as part of the HTML and CSS in-depth course offered by Meta and provided by Coursera, showcases my proficiency in web development.
 
-["image Example"](./assets/images/finalScreen.jpg)
+!["Project image"](./assets/images/finalScreen.jpg)
 
 [Visit Site](https://)
 
